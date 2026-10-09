@@ -1,0 +1,8 @@
+# Raw lab data stays private until your advisor approves publishing it
+data/raw/*
+!data/raw/.gitkeep
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
